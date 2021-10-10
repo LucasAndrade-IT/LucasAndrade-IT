@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @LucasAndrade-IT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Olá, sou @ LucasAndrade-IT
+- 👀 Estou interessado em aprender mais sobre as tecnologia e inovacao.
+- 🌱 Atualmente estou aprendendo Java,selenium,javascript,NET,engenhariaderede
+- 💞️ Estou procurando colaborar em gestao de projeto
+- 📫 Como chegar até mim https://www.linkedin.com/in/it-lucasandrade/
 
-<!---
-LucasAndrade-IT/LucasAndrade-IT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<! ---
+LucasAndrade-IT / LucasAndrade-IT é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
+Você pode clicar no link Visualizar para ver suas alterações.
 --->
