@@ -1,7 +1,12 @@
 ## Olá me chamo Lucas Andrade!👋 
-- 👀 Estou interessado em aprender mais sobre as tecnologia e inovacao.
-- 🌱 Atualmente estou aprendendo Java,selenium,javascript,NET,engenhariaderede
-- 💞️ Estou procurando colaborar em gestao de projeto
+<h3 align="center">  <br>
+<br>
+
+</h3>
+
+```
+Graduando em Administração , Negócios e Marketing pela Universidade Estácio de Sá .
+```
 
 <div align="center">
   <a href="https://github.com/LucasAndrade-IT">
