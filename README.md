@@ -33,3 +33,6 @@ Graduando em Administração , Negócios e Marketing pela Universidade Estácio 
  
  </div>
 
+  ```
+Sou apaixonado pelo o mundo da tecnologia, estou sempre desenvolvendo melhores abilidades para ser usadas em meu dia-a-dia.
+```
