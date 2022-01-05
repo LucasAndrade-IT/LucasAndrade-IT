@@ -6,7 +6,7 @@
 </h3>
 
 ```
-Graduando em Desenvolvimento Back-End, Universidade Anhanguera.
+Graduando em Desenvolvimento Back-End, pela a Universidade Anhanguera.
 ```
 
 <div align="center">
