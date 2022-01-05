@@ -6,7 +6,7 @@
 </h3>
 
 ```
-Graduando em Administração , Negócios e Marketing pela Universidade Estácio de Sá .
+Graduando em Desenvolvimento Back-End, Universidade Anhanguera.
 ```
 
 <div align="center">
