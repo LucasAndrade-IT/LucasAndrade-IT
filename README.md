@@ -7,11 +7,14 @@
 ```
 Um breve overview sobre mim. 
 
-Sou graduando em Desenvolvimento Back-End, e apaixonado por tecnologia e inovação, estou sempre buscando a estudar novas tecnologias e melhores práticas dentro das linguagens que sou familiarizado. 
+Sou graduando em Desenvolvimento Back-End, e apaixonado por tecnologia e inovação, estou sempre buscando 
+a estudar novas tecnologias e melhores práticas dentro das linguagens que sou familiarizado. 
 
-Um ponto forte que sempre destaco é que nada é impossível, só precisamos ser persistentes para aprender e tirar o melhor de tudo que é ensinado.
+Um ponto forte que sempre destaco é que nada é impossível, só precisamos ser persistentes para aprender e 
+tirar o melhor de tudo que é ensinado.
 
-Estou em constante busca por desafios e soft skills, pois elas são importantes para o crescimento e desenvolvimento tanto profissional quanto pessoal.
+Estou em constante busca por desafios e soft skills, pois elas são importantes
+para o crescimento e desenvolvimento tanto profissional quanto pessoal.
 
 Gosto de trabalhar em empresas que promovem desafios, aperfeiçoamento profissional e qualidade de vida.
 
